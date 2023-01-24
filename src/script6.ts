@@ -85,7 +85,7 @@ console.log(A4.name)
 //A4.name = "Akshay" --  in readonly we can not modified the property value we just set the value to the property.
 
 
-// interface  
+// interface  -- we can define defination and we can not put body in interface
 
 interface worldBank{
     loan():number
